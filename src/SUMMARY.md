@@ -19,8 +19,7 @@
 - [Understanding Ownership](understanding-ownership.md)
     - [Ownership]()
     - [References & Borrowing]()
-    - [Memory Layout]()
-    - [Slices]()
+    - [Slices](slices.md)
     - [Advanced: Lifetimes]()
 
 - [Structs](structs.md)
